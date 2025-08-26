@@ -32,7 +32,7 @@ main {
 main img {
   width: 100%;
   max-width: 100%;
-  /* height: auto; */
+  height: auto;
   display: block;
   margin-bottom: 2rem;
   aspect-ratio: 1000 / 667;
