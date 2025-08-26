@@ -23,7 +23,7 @@ body {
 main {
   display: block;
   width: 100%;
-  max-width: 1000px;
+  max-width: calc(1000px + 2rem);
   margin: 0 auto;
   padding: 0 1rem;
 }
