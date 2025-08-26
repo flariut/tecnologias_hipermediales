@@ -36,6 +36,7 @@ main img {
   display: block;
   margin-bottom: 2rem;
   aspect-ratio: 1000 / 667;
+  background-color: var(--color-fondo);
 }
 
 main p {
