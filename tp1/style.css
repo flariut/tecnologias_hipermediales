@@ -30,7 +30,6 @@ main {
 }
 
 main img {
-  aspect-ratio: 1000 / 667;
   width: auto;
   max-width: 100%;
   height: auto;
